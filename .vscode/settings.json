@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "nds.h": "c",
-        "bios.h": "c"
+        "bios.h": "c",
+        "stdlib.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
